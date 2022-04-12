@@ -1,4 +1,4 @@
-# author Molokov Alexander
+# author: Molokov Alexander
 # lisence: GPLv3
 
 import string
@@ -36,8 +36,6 @@ def parserString(inString: string, inSeparator: string) -> list:
     return tempList
 
 
-
-
 print(os.getcwd())          # print current directory
 """
 cwd - сокращение от current working directory - текущая рабочая директория.
@@ -67,4 +65,4 @@ print(lines)
 
 list_for_analiz = parserList(lines, " ")                # parser 'lines' в списке 'list_for_analiz' с разделителем
 print (list_for_analiz)
-
+print (list_for_analiz)
