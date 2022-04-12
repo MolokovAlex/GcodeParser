@@ -65,4 +65,4 @@ print(lines)
 
 list_for_analiz = parserList(lines, " ")                # parser 'lines' в списке 'list_for_analiz' с разделителем
 print (list_for_analiz)
-print (list_for_analiz)
+#print (list_for_analiz)
